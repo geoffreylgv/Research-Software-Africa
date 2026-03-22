@@ -1,5 +1,5 @@
 ---
-title: " Call for Presentations – RSA26 "
+title: " Call for Presentations – RSAfrica26 "
 format: html
 ---
 
@@ -10,11 +10,11 @@ format: html
 **Part of the Global South Research Software Group of Conferences**
 
 
-## About RSA26
+## About RSAfrica26
 
-The Research Software Africa Conference (RSA26) brings together people involved in building, using, supporting, and sustaining research software across Africa.
+The Research Software Africa Conference (RSAfrica26) brings together people involved in building, using, supporting, and sustaining research software across Africa.
 
-In 2026, RSA is part of a coordinated **Global South Research Software Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
+In 2026, RSAfrica is part of a coordinated **Global South Research Software Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
 
 This year’s theme, **“Research Software Without Borders”**, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.
 
@@ -114,7 +114,7 @@ You do not need to have a finished project. Work-in-progress, lessons learned, a
 
 Submissions will be reviewed based on:
 
-- Relevance to the RSA26 theme  
+- Relevance to the RSArica26 theme  
 - Clarity and coherence of the abstract  
 - Practical applicability and potential impact  
 - Alignment with the interests of the research software community  
@@ -132,10 +132,10 @@ Talks from beginners, early-career RSEs, and those covering fundamental topics a
 
 ## Code of Conduct
 
-RSA is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSA Code of Conduct.
+RSAfrica is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSEAA Code of Conduct.
 
 
-## Why Submit to RSA26?
+## Why Submit to RSAfrica26?
 
 - Be part of a globally connected set of conferences  
 - Share your work with a supportive, community-led audience  
@@ -153,12 +153,12 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
  
-Submit your proposals via the RSA26 online submission system at [submission link/TBD](). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSA26 Organizing Committee at info@rseaa.org.
+Submit your proposals via the RSAfrica26 online submission system at [submission link/TBD](). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
 
-<a class="rse rse-join" href="#">Submit Presentation for RSA26</a>
+<a class="rse rse-join" href="#">Submit Presentation for RSAfrica26</a>
 
 
-We look forward to your participation in **RSA26**, as we come together to strengthen our community connections and advance the field of research software!
+We look forward to your participation in **RSAfrica26**, as we come together to strengthen our community connections and advance the field of research software!
 
 For more information, visit [https://rseaa.org](https://rseaa.org).
 
