@@ -51,12 +51,6 @@ As part of this joint organising committee, we have created Equersa](https://equ
 
 :::
 
-## Want to sign up for updates? 
-
-- [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
-- [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
-- [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
-
 ## Call for Presentations
 
 The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year's theme, **"Research Software Without Borders"**, focuses on fostering collaboration and engagement within the research software community.
@@ -66,6 +60,11 @@ For more details, please refer to the [Call for Presentations](call_for_presenta
 ## Call for Workshops
 
 We invite proposals for workshops to be held on the first day of RSAfrica26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
+
+
+### Author Guidelines
+
+Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
 
 ## Accessibility and Inclusivity
 
@@ -97,18 +96,17 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 - Maryblessing Okoli
 - Rowland Mosbergen 
 
+
+## Want to sign up for updates? 
+
+- [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
+- [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
+- [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
+
+
 ## Code of Conduct
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
-
-
-## What is a Research Software Engineer (RSE)? 
-
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
-- researchers and academics who code,
-- generalists who bring communities together across the research and technical domains,
-- people who help train researchers to improve their code on HPC and Cloud systems, and
-- software engineers who work in the research domain. 
 
 
 ## Contact Us
@@ -125,11 +123,6 @@ If you would like to know more or have any questions, please contact the organis
 - [Click here to view the 2024 conference](/RSEAA24).
 - [Click here to view the 2023 conference](/RSEAA23).
 - [Click here to view the 2022 conference](/RSEAA22).
-
-
-### Author Guidelines
-
-Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
 
 
 <p style="font-size: small;color: grey">
