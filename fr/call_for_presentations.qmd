@@ -1,0 +1,151 @@
+---
+title: "Appel à Communications – RSAfrica26"
+format: html
+---
+
+## Logiciels de Recherche Sans Frontières
+### Construire des Communautés de Logiciels de Recherche Équitables, Durables et Connectées
+
+**Date de la conférence :** 25 août 2026  
+**Partie du Groupe de Conférences sur les Logiciels de Recherche du Sud Mondial**
+
+
+## À Propos de RSAfrica26
+
+La Conférence Recherche Logicielle Afrique (RSAfrica26) réunit les personnes impliquées dans la construction, l'utilisation, le soutien et la pérennisation des logiciels de recherche en Afrique.
+
+En 2026, RSAfrica fait partie d'un **Groupe de Conférences Coordonné sur les Logiciels de Recherche du Sud Mondial**, fonctionnant en Asie, Australie, Nouvelle-Zélande, Afrique et Amérique latine aux mêmes dates. Ensemble, ces événements créent un espace pour les conversations régionales aux côtés de l'échange mondial partagé.
+
+Le thème de cette année, **"Logiciels de Recherche Sans Frontières"**, est à propos de démolir les barrières entre les régions, les institutions, les disciplines et les communautés pour construire des logiciels de recherche qui sont équitables, durables et menés par la communauté.
+
+Nous invitons les contributions de toute personne impliquée dans les logiciels de recherche, notamment les ingénieurs en logiciels de recherche (RSE), les chercheurs, les fournisseurs d'infrastructure, les bibliothécaires, les spécialistes des données, les organisateurs communautaires, les étudiants et les bailleurs de fonds.
+
+
+## Domaines d'Intérêt
+
+Nous accueillons les communications relatives au thème, notamment (mais sans s'y limiter) :
+
+### Équité, Accès et Connaissances
+- Accès équitable aux logiciels et à l'infrastructure de recherche
+- Systèmes de connaissances autochtones, locaux et ancrés culturellement
+- Souveraineté des données, gouvernance et logiciels de recherche éthiques
+- Accessibilité, multilinguisme et conception inclusive (par exemple, les obstacles pour les personnes dont l'anglais n'est pas la langue maternelle dans les opportunités d'emploi et de financement)
+
+### Infrastructure et Plateformes
+- Infrastructure cloud, HPC et hybride pour la recherche
+- Plateformes et services partagés régionaux
+- Infrastructure ouverte, communautaire ou souveraine
+- Faire plus avec des ressources limitées
+
+### Reproductibilité, FAIR et Recherche Ouverte
+- Workflows reproductibles et bonnes pratiques de recherche
+- Données et logiciels FAIR en pratique
+- Provenance, métadonnées et intégrité de la recherche
+- Collaboration et réutilisation ouvertes
+
+### Communauté et Collaboration
+- Construction et pérennisation de la communauté des logiciels de recherche et des RSE
+- Gouvernance et leadership communautaire
+- Collaboration entre institutions et entre régions
+- Leçons tirées de la pratique communautaire
+
+### Plateformes et Espaces de Données
+- Plateformes de données de recherche, commons et environnements partagés
+- Espaces de données interopérables pour la collaboration entre institutions et entre régions
+- Systèmes de données fédérés et environnements de recherche de confiance
+- Intégration des plateformes de données avec les logiciels et workflows de recherche
+
+### Compétences, Formation et Carrères
+- Enseignement et apprentissage des compétences en logiciels de recherche
+- Cheminements de carrière et reconnaissance des RSE
+- Mentorat, leadership et renforcement des capacités
+- Soutien aux praticiens en début de carrière
+
+### IA et Outils Émergents
+- Logiciels et workflows de recherche activés par l'IA
+- Utilisation responsable et éthique de l'IA
+- Automatisation, agents et technologies émergentes
+- Expériences et leçons du monde réel
+
+### Durabilité et Impact
+- Pérennisation des logiciels de recherche au-delà des cycles de financement
+- Modèles de maintien, support et intendance
+- Informatique respectueuse de l'environnement
+- Mesure et communication de l'impact
+
+
+## Options de Présentation
+
+Lors de votre soumission, veuillez choisir l'une des options suivantes :
+
+### Présentation Éclair de 5 Minutes
+Une courte présentation pour partager une nouvelle idée, un travail précoce, une leçon apprise ou une brève étude de cas.
+
+### Démonstration / Vitrine de 10 Minutes
+Une démonstration pratique d'un outil, d'un workflow, d'une plateforme ou d'une technique, en mettant l'accent sur l'utilisation dans le monde réel.
+
+### Présentation de 15 Minutes
+Une présentation de conférence standard qui permet d'explorer un sujet de manière plus approfondie.
+
+### Format de Présentation Flexible
+Si votre proposition ne correspond pas aux options ci-dessus, vous êtes bienvenu de suggérer un format alternatif (par exemple, un atelier, un panel ou une discussion facilitée).
+
+> **Note :** Les formats non-présentation, tels que les affiches, ne sont pas inclus dans cet appel à communications.
+
+Nous encourageons particulièrement les premiers présentateurs, les praticiens en début de carrière et les soumissions axées sur la communauté.
+
+
+## Directives de Soumission
+
+Lors de la soumission de votre proposition, veuillez inclure :
+
+- **Titre** de votre présentation
+- **Type de présentation** (parmi les options ci-dessus)
+- **Résumé** (environ 150–300 mots)
+- **Objectifs d'apprentissage** (3–5 points clés pour le public)
+- **Informations sur le présentateur** (nom, affiliation, bio jusqu'à 150 mots et coordonnées)
+
+Les soumissions doivent clairement décrire ce que les participants apprendront et comment la présentation se connecte à la pratique ou à la communauté des logiciels de recherche.
+
+Vous n'avez pas besoin d'avoir un projet terminé. Les travaux en cours, les leçons apprises et les réflexions honnêtes sont les bienvenues.
+
+
+## Processus d'Examen
+
+Les soumissions seront examinées en fonction de :
+
+- Pertinence par rapport au thème RSAfrica26
+- Clarté et cohérence du résumé
+- Applicabilité pratique et impact potentiel
+- Alignement avec les intérêts de la communauté des logiciels de recherche
+- Inclusivité du/des présentateur(s)
+
+Les présentations de débutants, de RSE en début de carrière et celles couvrant des sujets fondamentaux sont encouragées. La conférence accueille les perspectives diverses et vise à réduire les barrières à l'entrée pour les nouveaux présentateurs.
+
+
+## Calendrier de Soumission
+
+- **Appel aux Communications Ouvert :** TBD
+- **Délai de Soumission :** 1er mai 2026
+- **Notification d'Acceptation :** 7 juillet 2026
+
+
+## Code de Conduite
+
+RSAfrica s'engage à fournir un environnement de conférence accueillant, inclusif et respectueux. Tous les participants sont censés suivre le Code de Conduite RSEAA.
+
+
+## Pourquoi Soumettre à RSAfrica26 ?
+
+- Faire partie d'un ensemble de conférences mondialement connectées
+- Partager votre travail avec un public attentif et mené par la communauté
+- Apprendre des praticiens en logiciels de recherche à travers les régions
+- Aider à façonner l'avenir des logiciels de recherche dans le Sud Mondial
+
+## Diversité et Inclusion
+
+Nous encourageons les soumissions de personnes de tous horizons, disciplines et niveaux de carrière. RSA26 s'engage à créer un environnement inclusif qui valorise les perspectives et expériences diverses.
+
+La conférence promeut activement l'accessibilité numérique, et nous encourageons les présentateurs à :
+- Utiliser **des diapositives claires et lisibles** avec un contraste élevé.
+- Fournir **du texte alternatif (alt text)** pour les images, graphiques et figures.
