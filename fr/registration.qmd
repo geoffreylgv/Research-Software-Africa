@@ -4,7 +4,7 @@ title: "Inscription"
 
 ::: {style="font-size: 3rem; text-align: center;"}
 :::
-Bienvenue à la Recherche Logicielle Afrique 2026.
+Bienvenue à Research Software Afrique 2026.
 
 ### Appel aux Bénévoles
 [Inscrivez-vous ici]() pour servir de bénévole lors de la conférence

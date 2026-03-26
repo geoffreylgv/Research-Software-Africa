@@ -1,5 +1,5 @@
 ---
-title: "Call for Presentations – RSAfrica26"
+title: " Call for Presentations – RSAfrica26 "
 format: html
 ---
 
@@ -16,7 +16,7 @@ The Research Software Africa Conference (RSAfrica26) brings together people invo
 
 In 2026, RSAfrica is part of a coordinated **Global South Research Software Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
 
-This year's theme, **"Research Software Without Borders"**, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.
+This year’s theme, **“Research Software Without Borders”**, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.
 
 We invite contributions from anyone involved in research software, including research software engineers (RSEs), researchers, infrastructure providers, librarians, data specialists, community organisers, students, and funders.
 
@@ -114,7 +114,7 @@ You do not need to have a finished project. Work-in-progress, lessons learned, a
 
 Submissions will be reviewed based on:
 
-- Relevance to the RSAfrica26 theme  
+- Relevance to the RSArica26 theme  
 - Clarity and coherence of the abstract  
 - Practical applicability and potential impact  
 - Alignment with the interests of the research software community  
@@ -145,7 +145,23 @@ RSAfrica is committed to providing a welcoming, inclusive, and respectful confer
 ## Diversity and Inclusion
 
 We encourage submissions from individuals of all backgrounds, disciplines, and career stages. RSA26 is committed to creating an inclusive environment that values diverse perspectives and experiences.
-
 The conference actively promotes Digital Accessibility, and we encourage presenters to:
 - Use **clear and readable slides** with high contrast.
 - Provide **alternative text (alt text)** for images, charts, and figures.
+- **Include captions** in videos to improve accessibility.
+- Avoid reliance on **color alone** to convey information.
+
+## Submission Process & Contact
+ 
+Submit your proposals via the RSAfrica26 online submission system at [submission link/TBD](). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
+
+<a class="rse rse-join" href="#">Submit Presentation for RSAfrica26</a>
+
+
+We look forward to your participation in **RSAfrica26**, as we come together to strengthen our community connections and advance the field of research software!
+
+For more information, visit [https://rseaa.org](https://rseaa.org).
+
+<p style="font-size: small;color: grey">
+*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+</p>

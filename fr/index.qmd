@@ -5,96 +5,125 @@ page-layout: full
 
 ::: {.banner}
 
-# Recherche Logicielle Afrique (RSAfrica26)
+# Research Software Africa (RSAfrica26)
 
-### La Conférence Internationale des Logiciels de Recherche en Afrique
+### La Conférence africaine internationale sur le logiciel de recherche
 
-25-28 août 2026  
+25–28 août 2026  
 (En ligne)
 
-[Inscription](registration.qmd ""){.btn .btn-primary .btn-lg}
+[S'inscrire](registration.qmd){.btn .btn-primary .btn-lg}
 
 :::
 
-# Bienvenue à Recherche Logicielle Afrique (RSAfrica26)
+# Bienvenue à Research Software Africa (RSAfrica26)
 
-Voulez-vous découvrir ce que d'autres font en matière de logiciels de recherche dans votre domaine et dans d'autres domaines ? Ou souhaitez-vous discuter avec d'autres de la façon d'équilibrer les besoins des chercheurs avec les bonnes pratiques en matière de logiciels ? Ou peut-être êtes-vous la seule personne travaillant sur des logiciels de recherche dans votre groupe ?
+Vous souhaitez découvrir ce que font d'autres personnes en matière de logiciel de recherche dans votre domaine ou en dehors ? Échanger sur la façon de concilier les besoins des chercheurs avec les bonnes pratiques de développement ? Ou peut-être êtes-vous la seule personne de votre équipe à travailler sur des logiciels de recherche ?
 
-Si c'est le cas, vous pourriez rejoindre RSAfrica26, la nouvelle conférence sur les Logiciels de Recherche (RS), du **25 au 28 août 2026**. Le thème de cette année est **"Logiciels de Recherche Sans Frontières"**, et le hashtag sera #RSAfrica26.
+Si vous vous reconnaissez dans l'une de ces situations, RSAfrica26 est fait pour vous. Rejoignez-nous du **25 au 28 août 2026** pour cette conférence dédiée au logiciel de recherche. Le thème de cette édition est **« Le logiciel de recherche sans frontières »** hashtag : #RSAfrica26.
 
-## Partenariat avec Research Software Asia Australia, Research Software Latinoamérica et Equersa
+## En partenariat avec Research Software Asia Australia, Research Software Latinoamérica et Equersa
 
-Nous sommes ravis d'annoncer que nous travaillons avec deux autres conférences, l'établie Research Software Asia Australia (RSAA26) et la nouvelle Research Software Latinoamérica (RSLA26) !
+Nous sommes heureux d'annoncer notre collaboration avec deux autres conférences : la bien établie Research Software Asia Australia (RSAA26) et la toute nouvelle Research Software Latinoamérica (RSLA26) !
 
-Nous créons un comité d'organisation conjoint, tandis que les co-présidents de chaque conférence peuvent toujours décider de ce qui se passe lors de leur événement.
+Un comité d'organisation conjoint a été constitué, tout en laissant à chaque co-président la liberté de décider du programme de son propre événement.
 
-En tant que partie de ce comité d'organisation conjoint, nous avons créé [Equersa](https://equersa.org), une organisation faîtière pour coordonner les conférences et fournir une façade unifiée aux bailleurs de fonds et aux parties prenantes mondiaux.
+Dans ce cadre, nous avons fondé [Equersa](https://equersa.org), une organisation faîtière chargée de coordonner les conférences et de présenter une interface unifiée aux bailleurs de fonds et partenaires à l'échelle mondiale.
 
 
 ::: {style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;"}
 
-## Dates Importantes (Provisoires)
+## Dates importantes (provisoires)
 
-| Élément | Ouverture | Fermeture |
-|---------|-----------|-----------|
-| Appel à Communications | 30 mars | 1er mai |
-| Appel aux Boursiers en Accessibilité | 14 mai | 26 juin |
-| Notification des communications | 7 juillet | — |
-| Appel aux Présidents de Session | ASAP | 7 août |
-| Appel aux Examinateurs | ASAP | 15 mai |
+| Élément | Ouverture | Clôture |
+|---------|-----------|---------|
+| Appel à conférencier.es | 30 mars | 1er mai |
+| Appel aux boursiers accessibilité | 14 mai | 26 juin |
+| Notification d'acceptation | 7 juillet | — |
+| Appel aux responsables de session | Dès que possible | 7 août |
+| Appel aux évaluateurs | Dès que possible | 15 mai |
 | Micro-subventions | 14 mai | 10 juillet |
 | Bourses | 14 mai | 14 août |
-| Inscriptions Tarif Réduit | 15 juin | 10 juillet |
-| Inscriptions Tarif Standard | 11 juillet | 14 août |
-| Conférence | 25 août | 28 août (selon la conférence) |
-
+| Inscriptions tarif réduit | 15 juin | 10 juillet |
+| Inscriptions tarif standard | 11 juillet | 14 août |
+| Conférence | 25 août | 28 août |
 
 :::
 
-## Appel à Communications
+## Appel à conférencier.es (speakers)
 
-L'appel à communications (CFP) pour la Conférence Recherche Logicielle Afrique 2026 (RSAfrica26) sera annoncé très bientôt. Le thème de cette année, **"Logiciels de Recherche Sans Frontières"**, met l'accent sur la collaboration et l'engagement au sein de la communauté des logiciels de recherche.
+L'appel à speakers (CFP) pour RSAfrica26 sera annoncé très prochainement. Cette année, sous le thème **« Le logiciel de recherche sans frontières »**, la conférence met à l'honneur la collaboration et l'engagement au sein de la communauté du logiciel de recherche.
 
-Pour plus de détails, veuillez consulter le document [Appel à Communications](call_for_presentations.qmd) dès qu'il sera disponible.
+Pour en savoir plus, consultez le document [Appel à contributions](call_for_presentations.qmd) dès sa mise en ligne.
 
-## Appel à Ateliers
+## Appel à ateliers
 
-Nous sollicitons des propositions pour les ateliers à tenir le premier jour de RSAfrica26 (mardi 25 août 2026), en mettant l'accent sur des sessions interactives et axées sur les compétences qui engagent les participants dans l'apprentissage pratique, le développement d'outils ou les discussions collaboratives au sein de la communauté des logiciels de recherche.
+Nous recherchons des propositions d'ateliers pour le premier jour de RSAfrica26 (mardi 25 août 2026). Nous privilégions des sessions interactives, orientées vers la pratique : apprentissage par l'action, développement d'outils ou discussions collaboratives au sein de la communauté du logiciel de recherche.
 
+## Instructions aux auteurs
 
-### Directives pour les Auteurs
+Merci de l'intérêt que vous portez à RSAfrica26. Pour garantir une soumission et une présentation dans les meilleures conditions, consultez le document [Instructions aux auteurs](author_guidelines.qmd).
 
-Merci de votre intérêt à contribuer à la Conférence Recherche Logicielle Afrique 2026 (RSAfrica26). Pour assurer une soumission et une expérience de présentation fluides, veuillez suivre les directives fournies dans le document [Directives pour les Auteurs](author_guidelines.qmd).
+## Accessibilité et inclusion
 
-## Accessibilité et Inclusion
+Nous nous engageons à offrir un environnement sûr, accessible et inclusif à tout.es les participant.es.
 
-Nous nous engageons à créer un environnement sûr, accessible et inclusif pour tous les participants.
+En 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) a publié un [rapport détaillé sur l'accessibilité de la conférence](RSEAUNZAccessibility.html), qui nous sert de référence pour évaluer et améliorer nos pratiques.
 
-En 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) a fourni un [rapport approfondi sur l'accessibilité de la conférence](RSEAUNZAccessibility.html) que nous utilisons comme référence pour notre performance.
+Dans cet esprit, nous proposons des bourses pour permettre aux salariés et aux étudiants de participer gratuitement, ainsi que 10 micro-subventions accessibilité d'une valeur de 50 $ AUD chacune, destinées à couvrir des frais tels que la connexion internet, un casque audio, la garde d'enfants, etc.
 
-À cette fin, nous offrons des bourses aux employés et aux étudiants pour participer gratuitement, ainsi que 10 micro-subventions d'accessibilité d'une valeur de 50 $ AUD pour aider aux frais Internet, casques d'écoute, garde d'enfants, etc.
+L'attribution des bourses sera fondée sur la priorité accordée à l'inclusion et à la participation des personnes touchées par les effets cumulés de la discrimination liée à la race, au genre, au handicap, à l'identité de genre, à la situation financière, à l'intersectionnalité de ces discriminations, ou à tout autre facteur non listé ici.
 
-L'admissibilité aux bourses sera basée sur la priorisation et la maximisation de l'inclusion et de la participation des personnes affectées par les effets cumulatifs de la discrimination, notamment en fonction de la race, du genre, du handicap, de l'identité de genre, de la situation financière et de l'intersectionnalité de cette discrimination, ainsi que d'autres facteurs non mentionnés ici.
+Les micro-subventions accessibilité seront attribuées selon les mêmes principes.
 
-L'admissibilité aux micro-subventions d'accessibilité sera basée sur une approche similaire.
+Nous encourageons toutes les personnes intéressées à candidater, même celles qui doutent de leur admissibilité cela nous permet de mieux cerner les besoins et d'optimiser la diversité et l'inclusion. Toutes les informations transmises resteront strictement confidentielles.
 
-Nous encourageons les participants à postuler même s'ils ne pensent pas être admissibles, car cela nous permettra de prioriser et de maximiser la diversité et l'inclusion. Toutes les informations seront traitées de manière confidentielle.
+Il vous sera demandé de rédiger un court paragraphe expliquant en quoi vous bénéficieriez de la bourse ou de la micro-subvention.
 
-Vous devrez fournir un court paragraphe expliquant comment vous bénéficieriez de la bourse ou de la micro-subvention.
+Tous les bénéficiaires de bourses et de micro-subventions accessibilité sont invités à soumettre un poster pour l'événement.
 
-Tous les bénéficiaires réussis des bourses et des micro-subventions d'accessibilité sont censés soumettre une affiche pour l'événement.
+Si vous estimez que la conférence ne tient pas ses engagements en matière d'accessibilité et d'inclusion, n'hésitez pas à nous le signaler en écrivant au comité d'organisation : info@rseaa.org.
 
-Si vous avez l'impression que la conférence ne respecte pas l'engagement de ces idéaux, veuillez nous le faire savoir en contactant le comité d'organisation à info at rseaa.org.
+Vous pouvez également candidater au programme de **Boursier accessibilité**. Ce programme vise à encourager les personnes en situation de handicap sourdes, malentendantes, aveugles, malvoyantes ou présentant tout autre type de handicap issues de notre communauté ou de communautés proches, à rejoindre RSAfrica26. Leur participation nous permet d'être tenus responsables de l'accessibilité réelle de cet événement en ligne.
 
-Vous pouvez également postuler pour devenir Boursier en Accessibilité. Le Programme de Bourses en Accessibilité RSAA26 vise à encourager les personnes en situation de handicap - telles que les personnes sourdes, malentendantes, aveugles, malvoyantes ou atteintes d'autres handicaps - de notre communauté ou de communautés adjacentes à rejoindre RSAA26. Leur participation nous aidera à être tenus responsables de l'accessibilité de cet événement en ligne.
-
-## Membres du Comité d'Organisation
+## Comité d'organisation
 
 - Peculiar C. Umeh
 - Michael Umeokoli
 - Kim Martin
 - Maryblessing Okolie
-- Rowland Mosbergen 
+- Rowland Mosbergen
 - Ibimina Hart
 - Amina Ezznafry
 - Richard Dushime
+- Seun Olufemi
+- Wachiou Baouraima
+- Geoffrey Logovi
+- Ibsèn Bazie
+- Christopher Lubega
+- Ahmed Unshur
+- Tosan Okome
+- Bernard Solodzi
+
+## Rester informé(e)
+
+Nous utilisons actuellement la liste de diffusion de RSAA, et nous sommes également présents sur LinkedIn :
+
+- [S'inscrire à la liste de diffusion RSAA](https://forms.gle/6YdKBMNX19vniVmk8)
+- [Nous suivre sur LinkedIn](https://www.linkedin.com/company/rsafrica/)
+
+## Code de conduite
+
+Le [Code de conduite](https://rse-aunz.github.io/code-of-conduct) définit les règles de participation et de bonne conduite pour l'ensemble des participants.
+
+## Nous contacter
+
+Pour toute question ou demande d'information, contactez le comité d'organisation par e-mail à info@rseaa.org.
+
+## Nos sponsors
+
+Nous remercions les organisations qui rendent cet événement possible.
+
+<p style="font-size: small;color: grey">
+*Le service <a href="https://cmt3.research.microsoft.com">Microsoft CMT</a> a été utilisé pour gérer le processus d'évaluation par les pairs de cette conférence. Ce service a été mis à disposition gratuitement par Microsoft, qui a pris en charge l'ensemble des coûts, y compris les services cloud Azure et le développement logiciel.*
+</p>

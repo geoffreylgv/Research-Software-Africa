@@ -22,15 +22,11 @@ website:
         href: en/index.qmd
       - text: "Call for presentations"
         href: en/call_for_presentations.qmd
-      - text: "Registration"
-        href: en/registration.qmd
       - text: "---"
       - text: "Accueil"
         href: fr/index.qmd
       - text: "Appel à Conférencier.es"
         href: fr/call_for_presentations.qmd
-      - text: "Inscription"
-        href: fr/registration.qmd
     right:
       - icon: github
         href: https://github.com/RSEAA/Research-Software-Africa

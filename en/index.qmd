@@ -12,7 +12,7 @@ page-layout: full
 25th-28th August, 2026  
 (Online)
 
-[Registration](registration.qmd ""){.btn .btn-primary .btn-lg}
+[Registration](registration.qmd){.btn .btn-primary .btn-lg}
 
 :::
 
@@ -20,7 +20,7 @@ page-layout: full
 
 Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe you are the only person working on research software in your group?
 
-If so, you might want to join us for RSAfrica26, the new Research Software (RS) conference, from the **25th to the 28th of August 2026**. The theme for this year is **"Research Software Without Borders"**, and the hashtag will be #RSAfrica26.
+If so, you might want to join us for RSAfrica26, the new Research Software(RS)conference, from the **25th to the 28th of August 2026**. The theme for this year is **"Research Software Without Borders"**, and the hashtag will be #RSAfrica26.
 
 ## Working with Research Software Asia Australia, Research Software Latinoamérica, and Equersa
 
@@ -28,7 +28,7 @@ We are thrilled to announce that we are working with two other conferences, the 
 
 We are creating a joint organising committee, while the co-chairs for each conference can still choose what happens at their event.
 
-As part of this joint organising committee, we have created [Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders.
+As part of this joint organising committee, we have created Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders. 
 
 
 ::: {style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;"}
@@ -98,3 +98,35 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 - Ibimina Hart
 - Amina Ezznafry
 - Richard Dushime
+- Seun Olufemi
+- Wachiou Baouraima
+- Geoffrey Logovi
+- Ibsèn Bazie
+- Christopher Lubega
+- Ahmed Unshur
+- Tosan Okome
+- Bernard Solodzi
+
+## Want to sign up for updates? 
+
+Currently we are using the RSAA mailing list although we do have our own LinkedIn
+- [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
+- [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rsafrica/)
+
+
+## Code of Conduct
+
+[The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
+
+
+## Contact Us
+If you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email.
+
+
+## Sponsors
+We thank the organizations that make this event possible
+
+
+<p style="font-size: small;color: grey">
+*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+</p>

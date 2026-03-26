@@ -19,7 +19,7 @@ Authors may choose from the following presentation options:
 - **Flexible Presentation Format** – If your content doesn't fit into the above options, propose an alternative presentation format.
 Non-presentation formats, such as posters, are not included in this CFP.
 
-Each presentation should be **concise, engaging, and relevant to the conference theme: "Research Software Without Borders"**.
+Each presentation should be **concise, engaging, and relevant to the conference theme: "Connecting with Community"**.
 
 ## 2. Submission Guidelines
 
@@ -27,9 +27,8 @@ Submissions must be made through the RSA26 online submission system by the submi
 
 ### Submission Requirements
 
-Each submission should include: 
+Each submission should include: - **Title:** A clear and concise title of your presentation.
 
-- **Title:** A clear and concise title of your presentation.
 - **Abstract:** 150–300 words summarizing the content and its relevance to the theme.
 - **Learning Objectives:** 3–5 key takeaways for the audience.
 - **Presenter Information:** Name, affiliation, bio (up to 150 words), and contact details.
@@ -37,19 +36,18 @@ Each submission should include:
 
 ## 3. Selection Criteria
 
-Submissions will be reviewed based on: 
+Submissions will be reviewed based on: - Relevance to the conference theme and sub-themes.
 
-- Relevance to the conference theme and sub-themes.
 - Clarity and coherence of the abstract.
 - Practical applicability and potential impact on the research software community.
 - Alignment with the interests of the research software community.
 - Inclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged.
-
 The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.
 
 Authors will be **notified of acceptance** after the review process is complete.
 
-## 4. Presentation Guidelines
+<a id="presentation-guidelines"></a> \## 4.
+Presentation Guidelines
 
 ### 4.1 General Guidelines
 
@@ -84,7 +82,7 @@ All presenters and attendees are expected to adhere to the **RSA26 Code of Condu
 
 ## 7. Contact Information
 
-For any questions or further assistance, please contact the **RSA26 Organizing Committee** at info@rseaa.org.
+For any questions or further assistance, please contact the **RSA26 Organizing Committee** at info\@rseaa.org.
 
 We look forward to your participation in **RSA26** and appreciate your contribution to building a stronger research software community!
 
